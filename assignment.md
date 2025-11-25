@@ -22,6 +22,8 @@ The goal of this assignment is to complete the implementation of the "Grid Merge
 ### 4. Implement change tracking and the "Changes" grid
 - In `client/src/App.tsx`, implement logic to track changes made in both Grid A and Grid B.
 - Create a new "Changes" grid that displays the differences between the previous and current values in Grids.
+- Each change will have separate row in the "Changes" grid.
+- Each row should have merge button.
 
 
 ### 4. Implement the Merge Functionality
